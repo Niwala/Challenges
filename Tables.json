@@ -7,16 +7,16 @@
         },
         {
             "name": "Footsteps",
-            "minorVersion": 0,
+            "minorVersion": 1,
             "majorVersion": 0
         },
         {
             "name": "SpiderAlarm",
-            "minorVersion": 0,
-            "majorVersion": 0
+            "minorVersion": 5,
+            "majorVersion": 2
         },
         {
-            "name": "Stove",
+            "name": "NewStove",
             "minorVersion": 0,
             "majorVersion": 0
         }
