@@ -1,0 +1,24 @@
+{
+    "infos": [
+        {
+            "name": "ConveyorBelt",
+            "minorVersion": 0,
+            "majorVersion": 0
+        },
+        {
+            "name": "Footsteps",
+            "minorVersion": 0,
+            "majorVersion": 0
+        },
+        {
+            "name": "SpiderAlarm",
+            "minorVersion": 0,
+            "majorVersion": 0
+        },
+        {
+            "name": "Stove",
+            "minorVersion": 0,
+            "majorVersion": 0
+        }
+    ]
+}
