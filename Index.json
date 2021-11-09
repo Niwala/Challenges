@@ -13,12 +13,6 @@
             "majorVersion": 1
         },
         {
-            "name": "SpiderAlarm",
-            "description": "‣ Trigger raycast\n‣ Scripts C#\n‣ Animations dans Unity",
-            "minorVersion": 0,
-            "majorVersion": 0
-        },
-        {
             "name": "Stove",
             "description": "‣ Scripts\n‣ Animation de material via script\n‣ Particles",
             "minorVersion": 0,
