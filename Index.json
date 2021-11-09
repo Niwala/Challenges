@@ -2,27 +2,28 @@
     "infos": [
         {
             "name": "ConveyorBelt",
-            "description": "Notions basiques de shader\nAnimation via script",
+            "description": "‣ Notions basiques de shader\n‣ Animation de material via script",
             "minorVersion": 0,
             "majorVersion": 1
         },
         {
             "name": "Footsteps",
-            "description": "",
+            "description": "‣ Events sur animations existantes\n‣ Particles\n‣ Shaders\n‣ Trigger zone\n‣ AnimationCurve & Gradient",
             "minorVersion": 0,
-            "majorVersion": 0
+            "majorVersion": 1
         },
         {
             "name": "SpiderAlarm",
-            "description": "",
+            "description": "‣ Trigger raycast\n‣ Scripts C#\n‣ Animations dans Unity",
             "minorVersion": 0,
             "majorVersion": 0
         },
         {
             "name": "Stove",
-            "description": "",
+            "description": "‣ Scripts\n‣ Animation de material via script\n‣ Particles",
             "minorVersion": 0,
-            "majorVersion": 0
+            "majorVersion": 1
         }
-    ]
+    ],
+    "projectVersion": 0
 }
