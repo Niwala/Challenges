@@ -3,7 +3,7 @@
         {
             "name": "ConveyorBelt",
             "description": "Notions basiques de shader\nAnimation via script",
-            "minorVersion": 0,
+            "minorVersion": 1,
             "majorVersion": 1
         },
         {
