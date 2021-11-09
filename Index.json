@@ -2,21 +2,25 @@
     "infos": [
         {
             "name": "ConveyorBelt",
+            "description": "Notions basiques de shader\nAnimation via script",
             "minorVersion": 0,
-            "majorVersion": 0
+            "majorVersion": 1
         },
         {
             "name": "Footsteps",
+            "description": "",
             "minorVersion": 0,
             "majorVersion": 0
         },
         {
             "name": "SpiderAlarm",
+            "description": "",
             "minorVersion": 0,
             "majorVersion": 0
         },
         {
             "name": "Stove",
+            "description": "",
             "minorVersion": 0,
             "majorVersion": 0
         }
