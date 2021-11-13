@@ -13,6 +13,12 @@
             "majorVersion": 1
         },
         {
+            "name": "SpiderAlarm",
+            "description": "‣ Animations dans Unity\n‣ Mouse Trigger\n‣ Scripts C#",
+            "minorVersion": 0,
+            "majorVersion": 1
+        },
+        {
             "name": "Stove",
             "description": "‣ Scripts\n‣ Animation de material via script\n‣ Particles",
             "minorVersion": 0,
