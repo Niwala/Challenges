@@ -6,7 +6,7 @@
             "minorVersion": 1,
             "majorVersion": 1,
             "priority": 0.0,
-            "hidden": true
+            "hidden": false
         },
         {
             "name": "Footsteps",
@@ -14,7 +14,7 @@
             "minorVersion": 1,
             "majorVersion": 1,
             "priority": 2.0,
-            "hidden": true
+            "hidden": false
         },
         {
             "name": "Introduction",
@@ -30,7 +30,7 @@
             "minorVersion": 2,
             "majorVersion": 2,
             "priority": 1.5,
-            "hidden": true
+            "hidden": false
         },
         {
             "name": "Stove",
@@ -38,7 +38,7 @@
             "minorVersion": 0,
             "majorVersion": 1,
             "priority": 1.7000000476837159,
-            "hidden": true
+            "hidden": false
         }
     ],
     "projectVersion": 6
