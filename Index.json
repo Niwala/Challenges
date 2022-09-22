@@ -3,19 +3,25 @@
         {
             "name": "ConveyorBelt",
             "description": "‣ Notions basiques de shader\n‣ Animation de material via script",
-            "minorVersion": 0,
+            "minorVersion": 1,
             "majorVersion": 1
         },
         {
             "name": "Footsteps",
             "description": "‣ Events sur animations existantes\n‣ Particles\n‣ Shaders\n‣ Trigger zone\n‣ AnimationCurve & Gradient",
+            "minorVersion": 1,
+            "majorVersion": 1
+        },
+        {
+            "name": "Introduction",
+            "description": "Introduction au cours de shader & VFX",
             "minorVersion": 0,
             "majorVersion": 1
         },
         {
             "name": "SpiderAlarm",
             "description": "‣ Animations dans Unity\n‣ Mouse Trigger\n‣ Scripts C#",
-            "minorVersion": 1,
+            "minorVersion": 2,
             "majorVersion": 2
         },
         {
