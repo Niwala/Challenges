@@ -9,6 +9,14 @@
             "hidden": false
         },
         {
+            "name": "CyberSword",
+            "description": "‣ Notions basiques de vertex color\n‣ Utilisation d'un sinus dans les shaders",
+            "minorVersion": 0,
+            "majorVersion": 1,
+            "priority": -0.8999999761581421,
+            "hidden": false
+        },
+        {
             "name": "Footsteps",
             "description": "‣ Events sur animations existantes\n‣ Particles\n‣ Shaders\n‣ Trigger zone\n‣ AnimationCurve & Gradient",
             "minorVersion": 1,
