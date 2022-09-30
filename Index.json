@@ -12,7 +12,7 @@
             "name": "CyberSword",
             "description": "‣ Notions basiques de vertex color\n‣ Utilisation d'un sinus dans les shaders",
             "minorVersion": 0,
-            "majorVersion": 1,
+            "majorVersion": 2,
             "priority": -0.8999999761581421,
             "hidden": false
         },
@@ -49,5 +49,5 @@
             "hidden": false
         }
     ],
-    "projectVersion": 6
+    "projectVersion": 7
 }
