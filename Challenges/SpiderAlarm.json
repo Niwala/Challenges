@@ -1,0 +1,10 @@
+{
+    "name": "SpiderAlarm",
+    "teacher": "Sam",
+    "tags": "Araignée, alarme, No no Square, Trigger, Animation, Script C#",
+    "description": "‣ Animations dans Unity\n‣ Mouse Trigger\n‣ Scripts C#",
+    "minorVersion": 2,
+    "majorVersion": 2,
+    "priority": 1.5,
+    "hidden": false
+}

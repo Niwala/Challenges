@@ -1,0 +1,10 @@
+{
+    "name": "Stove",
+    "teacher": "Sam",
+    "tags": "Réchaud, Animation, Flame, Feu, Animation, Mesh, \nScripts C#",
+    "description": "‣ Scripts C#\n‣ Animation de material via script\n‣ Particles",
+    "minorVersion": 0,
+    "majorVersion": 1,
+    "priority": 1.7000000476837159,
+    "hidden": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Footsteps",
+    "teacher": "",
+    "tags": "Pas, Animation, Pont, Event, Shader, \nParticles, Trigger, Clé, Bridge, Key",
+    "description": "‣ Events sur animations existantes\n‣ Particles\n‣ Shaders\n‣ Trigger zone\n‣ AnimationCurve & Gradient",
+    "minorVersion": 1,
+    "majorVersion": 1,
+    "priority": 2.0,
+    "hidden": false
+}
