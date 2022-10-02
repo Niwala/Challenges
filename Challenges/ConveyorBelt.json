@@ -1,0 +1,10 @@
+{
+    "name": "ConveyorBelt",
+    "teacher": "Sam",
+    "tags": "Tapis roulant, Shader, Animation, Courbe, Curve, \nPanning",
+    "description": "‣ Notions basiques de shader\n‣ Animation de material via script",
+    "minorVersion": 1,
+    "majorVersion": 1,
+    "priority": 0.0,
+    "hidden": false
+}
