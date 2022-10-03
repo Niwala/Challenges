@@ -4,6 +4,7 @@
 | --- | --- | --- |
 | Introduction | Done | ![](https://github.com/Niwala/Challenges/blob/main/Images/Introduction_Preview.png?raw=true) |
 | CyberSword | Done | ![](https://github.com/Niwala/Challenges/blob/main/Images/CyberSword_Preview.png?raw=true) |
+| RobotScreen | Done | ![](https://github.com/Niwala/Challenges/blob/main/Images/RobotScreen_Preview.png?raw=true) |
 | Conveyor Belt | Done | ![](https://github.com/Niwala/Challenges/blob/main/Images/ConveyorBelt_Preview.png?raw=true) |
 | FootSteps | Done | ![](https://github.com/Niwala/Challenges/blob/main/Images/FootSteps_Preview.png?raw=true) |
 | Spider Alarm | Done | ![](https://github.com/Niwala/Challenges/blob/main/Images/SpiderAlarm_Preview.png?raw=true) |
