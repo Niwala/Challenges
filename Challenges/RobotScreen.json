@@ -1,0 +1,10 @@
+{
+    "name": "RobotScreen",
+    "teacher": "Sam",
+    "tags": "Robot, Love Death Robot, Screen, Face",
+    "description": "Introduction aux texturex\nMasque avec le channel RGBA d'une texture",
+    "minorVersion": 0,
+    "majorVersion": 1,
+    "priority": -0.800000011920929,
+    "hidden": false
+}
