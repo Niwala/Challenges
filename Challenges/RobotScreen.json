@@ -2,7 +2,7 @@
     "name": "RobotScreen",
     "teacher": "Sam",
     "tags": "Robot, Love Death Robot, Screen, Face, Channels, Visage",
-    "description": "‣ Introduction aux textures\n‣ Masque avec le channel RGBA d'une texture",
+    "description": "‣ Introduction aux textures\n‣ Masque avec les channels RGBA d'une texture",
     "minorVersion": 0,
     "majorVersion": 1,
     "priority": -0.800000011920929,
