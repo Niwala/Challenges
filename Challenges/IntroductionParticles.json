@@ -1,0 +1,10 @@
+{
+    "name": "IntroductionParticles",
+    "teacher": "Jonathan",
+    "tags": "Particles , Particle , System , particule , particules",
+    "description": "Introduction au particles system de unity",
+    "minorVersion": 0,
+    "majorVersion": 1,
+    "priority": 0.0,
+    "hidden": false
+}
