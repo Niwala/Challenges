@@ -11,4 +11,3 @@
 | Stove | Done | ![](https://github.com/Niwala/Challenges/blob/main/Images/Stove_Preview.png?raw=true) |
 | Christmas | WIP | ![](https://github.com/Niwala/Challenges/blob/main/Images/Christmas_Preview.png?raw=true) |
 | FishTank | WIP | ![](https://github.com/Niwala/Challenges/blob/main/Images/FishTank_Preview.png?raw=true) |
-TEST
