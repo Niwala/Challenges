@@ -1,6 +1,6 @@
 {
     "name": "ConveyorBelt",
-    "teacher": "Sam",
+    "teacher": "Sam/Challenges",
     "tags": "Tapis roulant, Shader, Animation, Courbe, Curve, \nPanning",
     "description": "‣ Notions basiques de shader\n‣ Animation de material via script",
     "minorVersion": 1,

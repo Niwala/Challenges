@@ -1,8 +1,8 @@
 {
     "name": "Introduction",
-    "teacher": "Sam",
+    "teacher": "Sam/Cours",
     "tags": "Lampadaire, StreetLight, TrafficLight, Feu Rouge, Cubes, Shader",
-    "description": "Introduction au cours de shader & VFX",
+    "description": "‣ Introduction au cours de shader & VFX",
     "minorVersion": 2,
     "majorVersion": 1,
     "priority": -1.0,

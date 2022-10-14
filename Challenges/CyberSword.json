@@ -1,6 +1,6 @@
 {
     "name": "CyberSword",
-    "teacher": "Sam",
+    "teacher": "Sam/Challenges",
     "tags": "épée, epee, Shader, Vertex Color, Sinus ",
     "description": "‣ Notions basiques de vertex color\n‣ Utilisation d'un sinus dans les shaders",
     "minorVersion": 0,
