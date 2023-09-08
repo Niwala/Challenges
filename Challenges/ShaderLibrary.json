@@ -1,0 +1,10 @@
+{
+    "name": "ShaderLibrary",
+    "teacher": "All",
+    "tags": "Shader, Library, Fonctions, Functions",
+    "description": "Contains a list of typical functions used in shaders.",
+    "minorVersion": 0,
+    "majorVersion": 1,
+    "priority": -100.0,
+    "hidden": false
+}
