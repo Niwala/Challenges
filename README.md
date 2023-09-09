@@ -6,7 +6,7 @@
 ‣ Notions basiques de shader
 ‣ Animation de material via script
 ```
-![](/Images/ConveyorBelt.jpg)
+![](/Challenges/ConveyorBelt.jpg)
 
 
 ## CyberSword
@@ -16,15 +16,7 @@
 ‣ Notions basiques de vertex color
 ‣ Utilisation d'un sinus dans les shaders
 ```
-![](/Images/CyberSword.jpg)
-
-
-## FishTank
-- Teacher : Sam
-- Version : 1.0
-```
-
-```
+![](/Challenges/CyberSword.jpg)
 
 
 ## Footsteps
@@ -37,7 +29,7 @@
 ‣ Trigger zone
 ‣ AnimationCurve & Gradient
 ```
-![](/Images/Footsteps.jpg)
+![](/Challenges/Footsteps.jpg)
 
 
 ## HoloBoard
@@ -49,7 +41,7 @@
 ‣ Différents channels d'une texture
 ‣ Utilisation de vertex offset
 ```
-![](/Images/HoloBoard.jpg)
+![](/Challenges/HoloBoard.jpg)
 
 
 ## Introduction
@@ -58,7 +50,7 @@
 ```
 ‣ Introduction au cours de shader & VFX
 ```
-![](/Images/Introduction.jpg)
+![](/Challenges/Introduction.jpg)
 
 
 ## JeepAndScreen
@@ -67,7 +59,7 @@
 ```
 
 ```
-![](/Images/JeepAndScreen.jpg)
+![](/Challenges/JeepAndScreen.jpg)
 
 
 ## RobotScreen
@@ -77,7 +69,7 @@
 ‣ Introduction aux textures
 ‣ Masque avec les channels RGBA d'une texture
 ```
-![](/Images/RobotScreen.jpg)
+![](/Challenges/RobotScreen.jpg)
 
 
 ## ShaderLibrary
@@ -86,7 +78,7 @@
 ```
 Contiens une liste des fonctions typiques utilisées dans les shaders.
 ```
-![](/Images/ShaderLibrary.jpg)
+![](/Challenges/ShaderLibrary.jpg)
 
 
 ## SpiderAlarm
@@ -97,7 +89,7 @@ Contiens une liste des fonctions typiques utilisées dans les shaders.
 ‣ Mouse Trigger
 ‣ Scripts C#
 ```
-![](/Images/SpiderAlarm.jpg)
+![](/Challenges/SpiderAlarm.jpg)
 
 
 ## Stove
@@ -108,5 +100,5 @@ Contiens une liste des fonctions typiques utilisées dans les shaders.
 ‣ Animation de material via script
 ‣ Particles
 ```
-![](/Images/Stove.jpg)
+![](/Challenges/Stove.jpg)
 
