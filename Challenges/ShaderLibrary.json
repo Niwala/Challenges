@@ -3,8 +3,11 @@
     "teacher": "All",
     "tags": "Shader, Library, Fonctions, Functions",
     "description": "Contiens une liste des fonctions typiques utilisées dans les shaders.",
-    "minorVersion": 0,
+    "minorVersion": 1,
     "majorVersion": 1,
     "priority": -100.0,
-    "hidden": false
+    "hidden": false,
+    "preview": {
+        "instanceID": 28284
+    }
 }
