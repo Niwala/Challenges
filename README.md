@@ -6,7 +6,7 @@
 ‣ Notions basiques de shader
 ‣ Animation de material via script
 ```
-![](/Images/Preview.png)
+![](/Images/ConveyorBelt.jpg)
 
 
 ## CyberSword
@@ -16,7 +16,7 @@
 ‣ Notions basiques de vertex color
 ‣ Utilisation d'un sinus dans les shaders
 ```
-![](/Images/Preview.png)
+![](/Images/CyberSword.jpg)
 
 
 ## FishTank
@@ -37,7 +37,7 @@
 ‣ Trigger zone
 ‣ AnimationCurve & Gradient
 ```
-![](/Images/Preview.png)
+![](/Images/Footsteps.jpg)
 
 
 ## HoloBoard
@@ -49,7 +49,7 @@
 ‣ Différents channels d'une texture
 ‣ Utilisation de vertex offset
 ```
-![](/Images/ScifiPanel_Preview.png)
+![](/Images/HoloBoard.jpg)
 
 
 ## Introduction
@@ -58,7 +58,7 @@
 ```
 ‣ Introduction au cours de shader & VFX
 ```
-![](/Images/Preview.png)
+![](/Images/Introduction.jpg)
 
 
 ## JeepAndScreen
@@ -67,7 +67,7 @@
 ```
 
 ```
-![](/Images/JeepAndScreen_Preview.png)
+![](/Images/JeepAndScreen.jpg)
 
 
 ## RobotScreen
@@ -77,7 +77,7 @@
 ‣ Introduction aux textures
 ‣ Masque avec les channels RGBA d'une texture
 ```
-![](/Images/Preview.png)
+![](/Images/RobotScreen.jpg)
 
 
 ## ShaderLibrary
@@ -86,7 +86,7 @@
 ```
 Contiens une liste des fonctions typiques utilisées dans les shaders.
 ```
-![](/Images/Preview.png)
+![](/Images/ShaderLibrary.jpg)
 
 
 ## SpiderAlarm
@@ -97,7 +97,7 @@ Contiens une liste des fonctions typiques utilisées dans les shaders.
 ‣ Mouse Trigger
 ‣ Scripts C#
 ```
-![](/Images/Preview.png)
+![](/Images/SpiderAlarm.jpg)
 
 
 ## Stove
@@ -108,5 +108,5 @@ Contiens une liste des fonctions typiques utilisées dans les shaders.
 ‣ Animation de material via script
 ‣ Particles
 ```
-![](/Images/Preview.png)
+![](/Images/Stove.jpg)
 
