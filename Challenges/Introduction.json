@@ -3,11 +3,13 @@
     "teacher": "Sam/Cours",
     "tags": "Lampadaire, StreetLight, TrafficLight, Feu Rouge, Cubes, Shader",
     "description": "‣ Introduction au cours de shader & VFX",
-    "minorVersion": 2,
-    "majorVersion": 1,
+    "hash": {
+        "serializedVersion": "2",
+        "Hash": "3cbd6f4b1a65375b3a5b1586e739032f"
+    },
     "priority": -1.0,
     "hidden": false,
     "preview": {
-        "instanceID": 23652
+        "instanceID": 23448
     }
 }
