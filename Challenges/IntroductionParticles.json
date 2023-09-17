@@ -3,8 +3,10 @@
     "teacher": "Jonathan",
     "tags": "Particles , Particle , System , particule , particules",
     "description": "Introduction au particles system de unity",
-    "minorVersion": 0,
-    "majorVersion": 1,
+    "hash": "6eb28ca1e2fd58f88f069297f8c8376a",
     "priority": 0.0,
-    "hidden": false
+    "hidden": false,
+    "preview": {
+        "instanceID": 45882
+    }
 }
