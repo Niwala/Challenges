@@ -3,10 +3,10 @@
     "teacher": "Sam/Challenges",
     "tags": "épée, epee, Shader, Vertex Color, Sinus ",
     "description": "‣ Notions basiques de vertex color\n‣ Utilisation d'un sinus dans les shaders",
-    "hash": "55cc976e97451ec80ff54ec3d484e202",
+    "hash": "5464eab62b8a2ab188ce3c93870e9276",
     "priority": -0.8999999761581421,
     "hidden": false,
     "preview": {
-        "instanceID": 44258
+        "instanceID": 22046
     }
 }
