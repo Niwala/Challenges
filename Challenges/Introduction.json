@@ -1,11 +1,11 @@
 {
     "name": "Introduction",
     "teacher": "Sam/Cours",
-    "tags": "Lampadaire, StreetLight, TrafficLight, Feu Rouge, Cubes, Shader",
+    "tags": "Lampadaire, StreetLight, TrafficLight, Feu Rouge, Cubes, Shader, URP",
     "description": "‣ Introduction au cours de shader & VFX",
     "hash": {
         "serializedVersion": "2",
-        "Hash": "11b1bb163f6ea198dd99953cf52859a7"
+        "Hash": "68f022ffa2c22c72744069628810fe54"
     },
     "priority": -1.0,
     "hidden": false,
