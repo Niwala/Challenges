@@ -3,10 +3,10 @@
     "teacher": "Sam/Challenges",
     "tags": "Tapis roulant, Shader, Animation, Courbe, Curve, \nPanning",
     "description": "‣ Notions basiques de shader\n‣ Animation de material via script",
-    "hash": "2a70776918e0df9580f7b3adbb602ade",
+    "hash": "79662a6c116bb9f6b166489e591194f7",
     "priority": 0.0,
     "hidden": false,
     "preview": {
-        "instanceID": 42436
+        "instanceID": 44228
     }
 }
