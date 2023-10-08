@@ -3,8 +3,10 @@
     "teacher": "Sam/Cours",
     "tags": "Robot, Love Death Robot, Screen, Face, Channels, Visage",
     "description": "‣ Introduction aux textures\n‣ Masque avec les channels RGBA d'une texture",
-    "minorVersion": 0,
-    "majorVersion": 1,
+    "hash": "41fc52b13f68547603e990e6059146ec",
     "priority": -0.800000011920929,
-    "hidden": false
+    "hidden": false,
+    "preview": {
+        "instanceID": 27842
+    }
 }
