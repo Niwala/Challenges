@@ -1,7 +1,16 @@
 
+## Battery
+- Teacher : Sam/Challenge
+- Hash : 0beba8ffbe50b17a8cded6f1a5f927e9
+```
+‣ Notions basiqes de shader et masques.
+```
+![](/Challenges/Battery.jpg)
+
+
 ## ConveyorBelt
 - Teacher : Sam/Challenges
-- Version : 1.2
+- Hash : 79662a6c116bb9f6b166489e591194f7
 ```
 ‣ Notions basiques de shader
 ‣ Animation de material via script
@@ -11,7 +20,7 @@
 
 ## CyberSword
 - Teacher : Sam/Challenges
-- Version : 2.1
+- Hash : 55cc976e97451ec80ff54ec3d484e202
 ```
 ‣ Notions basiques de vertex color
 ‣ Utilisation d'un sinus dans les shaders
@@ -21,7 +30,7 @@
 
 ## Footsteps
 - Teacher : Sam/Challenges
-- Version : 1.1
+- Hash : 
 ```
 ‣ Events sur animations existantes
 ‣ Particles
@@ -34,7 +43,7 @@
 
 ## HoloBoard
 - Teacher : Sam/Challenges
-- Version : 2.3
+- Hash : 
 ```
 ‣ Textures import & unpacking
 ‣ Creation d'un shader PBR simple
@@ -46,16 +55,25 @@
 
 ## Introduction
 - Teacher : Sam/Cours
-- Version : 1.2
+- Hash : 68f022ffa2c22c72744069628810fe54
 ```
 ‣ Introduction au cours de shader & VFX
 ```
 ![](/Challenges/Introduction.jpg)
 
 
+## IntroductionParticles
+- Teacher : Jonathan
+- Hash : 6eb28ca1e2fd58f88f069297f8c8376a
+```
+Introduction au particles system de unity
+```
+![](/Challenges/IntroductionParticles.jpg)
+
+
 ## JeepAndScreen
 - Teacher : Sam/Cours
-- Version : 1.0
+- Hash : 
 ```
 
 ```
@@ -64,7 +82,7 @@
 
 ## RobotScreen
 - Teacher : Sam/Cours
-- Version : 1.0
+- Hash : 41fc52b13f68547603e990e6059146ec
 ```
 ‣ Introduction aux textures
 ‣ Masque avec les channels RGBA d'une texture
@@ -74,16 +92,16 @@
 
 ## ShaderLibrary
 - Teacher : All
-- Version : 1.0
+- Hash : 
 ```
-Contiens une liste des fonctions typiques utilisées dans les shaders.
+Contains a list of typical functions used in shaders.
 ```
 ![](/Challenges/ShaderLibrary.jpg)
 
 
 ## SpiderAlarm
 - Teacher : Sam/Challenges
-- Version : 2.2
+- Hash : 
 ```
 ‣ Animations dans Unity
 ‣ Mouse Trigger
@@ -94,7 +112,7 @@ Contiens une liste des fonctions typiques utilisées dans les shaders.
 
 ## Stove
 - Teacher : Sam/Challenges
-- Version : 1.0
+- Hash : 
 ```
 ‣ Scripts C#
 ‣ Animation de material via script
