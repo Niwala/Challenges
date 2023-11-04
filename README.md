@@ -1,7 +1,7 @@
 
 ## Battery
-- Teacher : Sam/Challenge
-- Hash : 0beba8ffbe50b17a8cded6f1a5f927e9
+- Teacher : Sam/Challenges
+- Hash : a4020bf15cdedd099357472476967d6e
 ```
 ‣ Notions basiqes de shader et masques.
 ```
@@ -10,7 +10,7 @@
 
 ## ConveyorBelt
 - Teacher : Sam/Challenges
-- Hash : 79662a6c116bb9f6b166489e591194f7
+- Hash : 6f10a1880dedd86510b8c7135a82fd60
 ```
 ‣ Notions basiques de shader
 ‣ Animation de material via script
@@ -20,7 +20,7 @@
 
 ## CyberSword
 - Teacher : Sam/Challenges
-- Hash : 55cc976e97451ec80ff54ec3d484e202
+- Hash : 70d0059692a08d9cbe8037951170d567
 ```
 ‣ Notions basiques de vertex color
 ‣ Utilisation d'un sinus dans les shaders
@@ -30,7 +30,7 @@
 
 ## Footsteps
 - Teacher : Sam/Challenges
-- Hash : 
+- Hash : 34ae3c558e64ae3d2d25daa02e05dd64
 ```
 ‣ Events sur animations existantes
 ‣ Particles
@@ -43,7 +43,7 @@
 
 ## HoloBoard
 - Teacher : Sam/Challenges
-- Hash : 
+- Hash : 1205bf8f669ae0af68ba9655642a6e64
 ```
 ‣ Textures import & unpacking
 ‣ Creation d'un shader PBR simple
@@ -55,7 +55,7 @@
 
 ## Introduction
 - Teacher : Sam/Cours
-- Hash : 68f022ffa2c22c72744069628810fe54
+- Hash : 22959e46c0f417f5729e926f5cfe858f
 ```
 ‣ Introduction au cours de shader & VFX
 ```
@@ -64,7 +64,7 @@
 
 ## IntroductionParticles
 - Teacher : Jonathan
-- Hash : 6eb28ca1e2fd58f88f069297f8c8376a
+- Hash : 2c33ef26baa2089872fefbc7800d1e65
 ```
 Introduction au particles system de unity
 ```
@@ -73,7 +73,7 @@ Introduction au particles system de unity
 
 ## JeepAndScreen
 - Teacher : Sam/Cours
-- Hash : 
+- Hash : e65d36d5101747f967e9e742787a9c5b
 ```
 
 ```
@@ -82,7 +82,7 @@ Introduction au particles system de unity
 
 ## RobotScreen
 - Teacher : Sam/Cours
-- Hash : 41fc52b13f68547603e990e6059146ec
+- Hash : e9c29a0bd4c3fe0695dbd6983866ec5b
 ```
 ‣ Introduction aux textures
 ‣ Masque avec les channels RGBA d'une texture
@@ -92,7 +92,7 @@ Introduction au particles system de unity
 
 ## ShaderLibrary
 - Teacher : All
-- Hash : 
+- Hash : f64c7ea5c90e79a5027c25294887366d
 ```
 Contains a list of typical functions used in shaders.
 ```
@@ -101,7 +101,7 @@ Contains a list of typical functions used in shaders.
 
 ## SpiderAlarm
 - Teacher : Sam/Challenges
-- Hash : 
+- Hash : 22fcb0d59ae652a8463170dd38a8e840
 ```
 ‣ Animations dans Unity
 ‣ Mouse Trigger
@@ -112,7 +112,7 @@ Contains a list of typical functions used in shaders.
 
 ## Stove
 - Teacher : Sam/Challenges
-- Hash : 
+- Hash : a733f313fd8bfff66527b237b31cdabd
 ```
 ‣ Scripts C#
 ‣ Animation de material via script
