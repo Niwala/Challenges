@@ -1,9 +1,9 @@
 {
     "name": "Battery",
-    "teacher": "Sam/Challenge",
+    "teacher": "Sam/Challenges",
     "tags": "Batterie, Battery, Pile, Step, Threshold, Charge, Shader",
     "description": "‣ Notions basiqes de shader et masques.",
-    "hash": "295aa937d6a161e02d837572ccfdf974",
+    "hash": "a4020bf15cdedd099357472476967d6e",
     "priority": 2.0,
     "hidden": false,
     "preview": {
