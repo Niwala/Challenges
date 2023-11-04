@@ -3,8 +3,10 @@
     "teacher": "Sam/Challenges",
     "tags": "Araignée, alarme, No no Square, Trigger, Animation, Script C#",
     "description": "‣ Animations dans Unity\n‣ Mouse Trigger\n‣ Scripts C#",
-    "minorVersion": 2,
-    "majorVersion": 2,
+    "hash": "22fcb0d59ae652a8463170dd38a8e840",
     "priority": 1.5,
-    "hidden": false
+    "hidden": false,
+    "preview": {
+        "instanceID": 28850
+    }
 }

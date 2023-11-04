@@ -3,8 +3,10 @@
     "teacher": "Sam/Challenges",
     "tags": "Scifi, Vaisseau, Ship, Holograme, Panel, Board, Vertex Offset Displacement, Channels, Additif, Shaders",
     "description": "‣ Textures import & unpacking\n‣ Creation d'un shader PBR simple\n‣ Différents channels d'une texture\n‣ Utilisation de vertex offset",
-    "minorVersion": 3,
-    "majorVersion": 2,
+    "hash": "1205bf8f669ae0af68ba9655642a6e64",
     "priority": -0.699999988079071,
-    "hidden": false
+    "hidden": false,
+    "preview": {
+        "instanceID": 28502
+    }
 }

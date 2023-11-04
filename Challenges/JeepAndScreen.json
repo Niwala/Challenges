@@ -3,8 +3,10 @@
     "teacher": "Sam/Cours",
     "tags": "",
     "description": "",
-    "minorVersion": 0,
-    "majorVersion": 1,
+    "hash": "e65d36d5101747f967e9e742787a9c5b",
     "priority": 1.0,
-    "hidden": false
+    "hidden": false,
+    "preview": {
+        "instanceID": 28594
+    }
 }
