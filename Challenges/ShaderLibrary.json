@@ -2,11 +2,11 @@
     "name": "ShaderLibrary",
     "teacher": "All",
     "tags": "Shader, Library, Fonctions, Functions",
-    "description": "Contiens une liste des fonctions typiques utilisées dans les shaders.",
-    "hash": "c60ffd84cdaf198a696204e41abd28d4",
+    "description": "Contains a list of typical functions used in shaders.",
+    "hash": "f64c7ea5c90e79a5027c25294887366d",
     "priority": -100.0,
     "hidden": false,
     "preview": {
-        "instanceID": 22940
+        "instanceID": 28762
     }
 }
