@@ -112,7 +112,7 @@ Contains a list of typical functions used in shaders.
 
 ## Stove
 - Teacher : Sam/Challenges
-- Hash : a733f313fd8bfff66527b237b31cdabd
+- Hash : 294a4649d3c969e0ff2a4fa4a5558310
 ```
 ‣ Scripts C#
 ‣ Animation de material via script
